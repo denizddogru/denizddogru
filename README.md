@@ -1,16 +1,12 @@
-## Hi there 👋
+# Deniz Doğru
+**.NET Developer** @Venhancer
+* [LinkedIn](https://www.linkedin.com/in/deniz-doğru-795225184)
+## Technical Skills
+* **.NET Core & ASP.NET**
+* **C# & Entity Framework**
+* **SQL Server & Azure SQL**
+* **Azure DevOps & CI/CD**
+* **REST API & Microservices**
+* **PostgreSQL & Redis**
+* **IoT**
 
-<!--
-**denizddogru/denizddogru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
