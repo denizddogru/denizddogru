@@ -13,3 +13,7 @@
 * **PostgreSQL & Redis**
 * **IoT**
 
+
+## Some of the Websites I Regularly Use
+* https://markdownlivepreview.com/
+* https://restful-api.dev/
