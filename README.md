@@ -17,3 +17,4 @@
 ## Some of the Websites I Regularly Use
 * https://markdownlivepreview.com/
 * https://restful-api.dev/
+* https://jwt.io
