@@ -7,7 +7,7 @@
 ## Technical Skills
 * **.NET Core & ASP.NET**
 * **C# & Entity Framework**
-* **SQL Server 
+* **SQL Server** 
 * **REST API & Microservices**
 * **PostgreSQL & Redis**
 * **IoT**
