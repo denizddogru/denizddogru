@@ -7,8 +7,7 @@
 ## Technical Skills
 * **.NET Core & ASP.NET**
 * **C# & Entity Framework**
-* **SQL Server & Azure SQL**
-* **Azure DevOps & CI/CD**
+* **SQL Server 
 * **REST API & Microservices**
 * **PostgreSQL & Redis**
 * **IoT**
