@@ -1,6 +1,7 @@
 # Deniz Doğru
 * **.NET Developer** @Venhancer
 * Feel free to talk to me about anything! Find my linked-in below and send a friend request w/ a message.
+* Current focus MCP
 
 
 * [LinkedIn](https://www.linkedin.com/in/deniz-doğru-795225184)
@@ -17,3 +18,4 @@
 * https://markdownlivepreview.com/
 * https://restful-api.dev/
 * https://jwt.io
+* draw.io ( for architectural diagrams  )
