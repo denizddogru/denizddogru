@@ -19,5 +19,5 @@
 * https://markdownlivepreview.com/
 * https://restful-api.dev/
 * https://jwt.io
-* draw.io ( for architectural diagrams  )
-* lovable.dev ( testing out vibe coding with lovable & claude code )
+* https://draw.io ( for architectural diagrams  )
+* https://lovable.dev (vibe coding my portfolio page | link above)
