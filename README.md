@@ -13,7 +13,7 @@
 * **REST API & Microservices**
 * **PostgreSQL & Redis**
 * **IoT**
-* **Claude & Claude Code** [Structured Prompting]
+* **Claude & Claude Code**
 
 
 ## Some of the Websites I Regularly Use 
