@@ -14,6 +14,10 @@
 * **PostgreSQL & Redis**
 * **IoT**
 * **Claude & Claude Code**
+* **Trying out Antigravity**
+* **Also trying out n8n**
+* TODO: Learn MCP and Skills
+
 
 
 ## Some of the Websites I Regularly Use 
