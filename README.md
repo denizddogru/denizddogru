@@ -1,5 +1,5 @@
 # Deniz Doğru
-* **.NET Developer** @Monster
+* **.NET Developer**
 * Feel free to talk to me about anything! Find my linked-in below and send a friend request w/ a message.
 * [Portfolio / CV Page](https://deniz-dogru-portfolio.lovable.app/)
 *  [LinkedIn](https://www.linkedin.com/in/deniz-doğru-795225184)
