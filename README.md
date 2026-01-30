@@ -2,10 +2,14 @@
 * **.NET Developer** @Monster
 * Feel free to talk to me about anything! Find my linked-in below and send a friend request w/ a message.
 * [Portfolio / CV Page](https://deniz-dogru-portfolio.lovable.app/)
+*  [LinkedIn](https://www.linkedin.com/in/deniz-doğru-795225184)
+
+# Current Work
+* 🐱 [MarkdownTracker](https://markdowntracker.netlify.app/)
+   -> MarkdownTracker lets you manage your markdown files in folder structure.
 
 
 
-* [LinkedIn](https://www.linkedin.com/in/deniz-doğru-795225184)
 ## Technical Skills
 * **.NET Core & ASP.NET**
 * **C# & Entity Framework**
