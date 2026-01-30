@@ -4,7 +4,7 @@
 * [Portfolio / CV Page](https://deniz-dogru-portfolio.lovable.app/)
 *  [LinkedIn](https://www.linkedin.com/in/deniz-doğru-795225184)
 
-# Current Work
+# My Work
 * 🐱 [MarkdownTracker](https://markdowntracker.netlify.app/)
    -> MarkdownTracker lets you manage your markdown files in folder structure.
 
