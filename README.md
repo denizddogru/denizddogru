@@ -20,13 +20,14 @@
 * **Claude & Claude Code**
 * **Trying out Antigravity**
 * **Also trying out n8n**
+* **Codex
 * TODO: Learn MCP and Skills
 
 
 
 ## Some of the Websites I Regularly Use 
-* https://markdownlivepreview.com/
+* https://markdowntracker.netlify.app/
 * https://restful-api.dev/
 * https://jwt.io
 * https://draw.io ( for architectural diagrams  )
-* https://lovable.dev (vibe coding my portfolio page | link above)
+* https://www.aitmpl.com/skills
