@@ -20,7 +20,7 @@
 * **Claude & Claude Code**
 * **Trying out Antigravity**
 * **Also trying out n8n**
-* **Codex
+* **Codex**
 * TODO: Learn MCP and Skills
 
 
