@@ -17,7 +17,7 @@
 
 
 
-# My Work & Personal Projects
+# Personal Projects
 * 🐱 [MarkdownTracker](https://markdowntracker.netlify.app/)
    -> MarkdownTracker lets you manage your markdown files in folder structure.
 
