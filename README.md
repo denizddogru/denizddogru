@@ -24,9 +24,12 @@
 
 
 ## Technical Skills
+* ## Backend
 * **.NET Core & ASP.NET**
 * **C# & Entity Framework**
-* **SQL Server** 
+* **SQL Server**
+* **DBeaver & PostgreSQL**
+* **Lens**
 * **REST API & Microservices**
 * **PostgreSQL & Redis**
 * **IoT**
@@ -35,6 +38,9 @@
 * **Also trying out n8n**
 * **Codex**
 * TODO: Learn MCP and Skills
+* ## Frontend
+* **React-Vite-Typescript** 
+* **UX/UI Design through google-stitch and MCP integrations**
 
 
 
@@ -44,3 +50,4 @@
 * https://jwt.io
 * https://draw.io ( for architectural diagrams  )
 * https://www.aitmpl.com/skills
+* https://stitch.withgoogle.com/ ( UI/UX design with code + prompt )
