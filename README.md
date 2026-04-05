@@ -1,14 +1,17 @@
 ## About
 * **Hi! Im Deniz**
-* Backend Developer / Software Engineer
+* Backend Developer / Software Engineer / AI-Driven Developer
 * Feel free to talk to me about anything! Find my linked-in below and send a friend request w/ a message.
 * [Portfolio / CV Page](https://deniz-dogru-portfolio.lovable.app/)
 *  [LinkedIn](https://www.linkedin.com/in/deniz-doğru-795225184)
+
 
 # Some cool badges
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=orange)
+![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=python&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -20,6 +23,7 @@
 # Personal Projects
 * 🐱 [MarkdownTracker](https://markdowntracker.netlify.app/)
    -> MarkdownTracker lets you manage your markdown files in folder structure.
+* Currently working on some stuff, mainly through claude + antigravity. Coming soon
 
 
 
