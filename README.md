@@ -23,7 +23,8 @@
 # Personal Projects
 * 🐱 [MarkdownTracker](https://markdowntracker.netlify.app/)
    -> MarkdownTracker lets you manage your markdown files in folder structure.
-* n8n-job-search (check my repository and SETUP.md inside it ) -> An automation that finds jobs fitting to your resume. 
+* n8n-job-search (check my repository and SETUP.md inside it ) -> An automation that finds jobs fitting to your resume.
+  
 
 
 
@@ -41,7 +42,6 @@
 * **Trying out Antigravity**
 * **Also trying out n8n**
 * **Codex**
-* TODO: Learn MCP and Skills
 * ## Frontend
 * **React-Vite-Typescript** 
 * **UX/UI Design through google-stitch and MCP integrations**
