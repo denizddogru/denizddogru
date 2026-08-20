@@ -23,7 +23,7 @@
 # Personal Projects
 * 🐱 [MarkdownTracker](https://markdowntracker.netlify.app/)
    -> MarkdownTracker lets you manage your markdown files in folder structure.
-* Currently working on some stuff, mainly through claude + antigravity. Coming soon
+* n8n-job-search (check my repository and SETUP.md inside it ) -> An automation that finds jobs fitting to your resume. 
 
 
 
