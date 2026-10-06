@@ -18,7 +18,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
-# Current Inspiration / Focus
+# Current Fascination
 * Java/Spring Framework
 * three.js, 3D models, animations
 * cloudflare, deployment, hosting, vps
